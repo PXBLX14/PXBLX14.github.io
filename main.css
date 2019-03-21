@@ -1,0 +1,16 @@
+body { 
+  padding: 5%;
+  background: green;
+  font-family: simpsons;
+  color: white;
+}
+
+h1, h2 {
+  color: black;
+  background: yellow;
+  color:black;
+}
+
+.principal {
+  color: green;
+}
